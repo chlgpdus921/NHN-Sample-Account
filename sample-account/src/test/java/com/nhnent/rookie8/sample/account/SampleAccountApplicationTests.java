@@ -1,4 +1,4 @@
-package com.nhnent.rookie8.sampleaccount;
+package com.nhnent.rookie8.sample.account;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

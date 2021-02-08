@@ -1,5 +1,4 @@
-package com.nhnent.rookie8.sampleaccount;
-
+package com.nhnent.rookie8.sample.account;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
@@ -23,10 +22,6 @@ public class HelloWorldController {
         return "welcome";
     }
 
-    @GetMapping("/helloworld")
-    @ResponseBody
-    public String helloWorld() {
-        return "Hello Worlddddd";
-    }
+
 
 }

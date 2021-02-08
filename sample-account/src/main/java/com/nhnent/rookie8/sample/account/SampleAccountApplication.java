@@ -1,4 +1,4 @@
-package com.nhnent.rookie8.sampleaccount;
+package com.nhnent.rookie8.sample.account;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
